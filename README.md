@@ -8,7 +8,7 @@
 ---
 
 ### 📫 Connect with Me
-- *Email:* deepakumarm1428@example.com
+- *Email:* deepakumarm1428@gmail.com
 - *LinkedIn:* [linkedin.com/in/deepakumar](www.linkedin.com/in/deepakumar-m-47399734b)
 - *GitHub:* [github.com/deepakumar-dev](https://github.com/deepakumar-dev)
 
