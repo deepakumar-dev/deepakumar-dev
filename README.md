@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Tech Stack
-- Java, Spring Boot
+- Java,C++
 - HTML, CSS, JavaScript
 - MySQL
 - Git & GitHub
