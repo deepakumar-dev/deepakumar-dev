@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 - Java,C++
 - HTML, CSS, JavaScript
-- MySQL
+- MySQL,PHP
 - Git & GitHub
 
 ---
