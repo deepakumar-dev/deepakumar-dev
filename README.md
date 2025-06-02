@@ -1,7 +1,7 @@
 ## Hi there, I'm Deepakumar!
 
 🎓 Final Year B.Sc. IT Student at Sri Krishna Arts and Science College  
-💻 Aspiring Java Developer | Full Stack Enthusiast  
+💻 Aspiring Full Stack Developer | Full Stack Enthusiast  
 🌱 Currently learning Java,full stack, Spring Boot, MySQL, and frontend technologies  
 ⚡ Passionate about backend development and building real-world applications  
 
