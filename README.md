@@ -23,6 +23,6 @@
 ---
 
 ### 🚀 Goals for 2025
-- Build full-stack Java projects  
+- Build full-stack development projects  
 - Strengthen backend development skills  
 - Crack IT placements and grow as a developer
