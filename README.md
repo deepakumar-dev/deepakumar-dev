@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Tech Stack
-- Java,C++,Python 
+- Java,C++
 - HTML, CSS, JavaScript
 - MySQL,PHP,Bootstrap
 - Git & Figma
