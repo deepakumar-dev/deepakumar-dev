@@ -15,10 +15,10 @@
 ---
 
 ### 🛠 Tech Stack
-- Java,C++
+- Java,C++,Python 
 - HTML, CSS, JavaScript
 - MySQL,PHP,Bootstrap
-- Git & GitHub
+- Git & Figma
 
 ---
 
