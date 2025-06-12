@@ -2,7 +2,7 @@
 
 🎓 Final Year B.Sc. IT Student at Sri Krishna Arts and Science College  
 💻 Aspiring Full Stack Developer | Full Stack Enthusiast  
-🌱 Currently learning Java,full stack, Spring Boot, MySQL, and frontend technologies  
+🌱 Currently learning Java,full stack,MySQL,frontend and Backend technologies  
 ⚡ Passionate about backend development and building real-world applications  
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 - Java,C++
 - HTML, CSS, JavaScript
-- MySQL,PHP
+- MySQL,PHP,Bootstrap
 - Git & GitHub
 
 ---
