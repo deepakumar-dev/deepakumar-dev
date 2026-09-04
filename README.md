@@ -1,28 +1,43 @@
-## Hi there, I'm Deepa kumar M!
+Hi there, I'm Deepa Kumar M! 👋
 
-🎓 Final Year B.Sc. IT Student at Sri Krishna Arts and Science College  
-💻 Aspiring Full Stack Developer | Full Stack Enthusiast  
-🌱 Currently learning Python,full stack,MySQL,frontend and Backend technologies  
-⚡ Passionate about backend development and building real-world applications  
-
----
-
-### 📫 Connect with Me
-- *Email:* deepakumarm1428@gmail.com
-- *LinkedIn:* [linkedin.com/in/deepakumar](www.linkedin.com/in/deepakumar-m-47399734b)
-- *GitHub:* [github.com/deepakumar-dev](https://github.com/deepakumar-dev)
+🎓 B.Sc. Information Technology Graduate from Sri Krishna Arts and Science College
+💻 Aspiring IT Professional | Full Stack & Software Development Enthusiast
+🤖 Currently Learning AI Tools, Data Analytics
+🌱 Building skills in Frontend, Backend, Full Stack Development & Database Technologies
+⚡ Passionate about solving real-world problems and building practical applications
 
 ---
 
-### 🛠 Tech Stack
-- Python,C++
-- HTML, CSS, JavaScript
-- MySQL
-- Git & Figma
+📫 Connect with Me
+
+- Email: deepakumarm1428@gmail.com
+- LinkedIn: linkedin.com/in/deepakumar-m-47399734b
+- GitHub: github.com/deepakumar-dev
 
 ---
 
-### 🚀 Goals for 2025
-- Build full-stack development projects  
-- Strengthen backend development skills  
-- Crack IT placements and grow as a developer
+🛠 Tech Stack
+
+- Programming: Python, C++
+- Frontend: HTML, CSS, JavaScript
+- Backend & Database: MySQL
+- Data & AI: Data Analytics, AI Tools
+- Tools: Git, GitHub, Figma, XAMPP
+
+---
+
+🚀 Current Focus
+
+- Building Full Stack Development projects
+- Strengthening Python and Data Analytics skills
+- Exploring AI tools and emerging technologies
+- Developing practical, real-world applications
+- Preparing for opportunities in the IT industry
+
+---
+
+💡 Featured Projects
+
+- 🗺️ Map Navigation System – Google Maps API-based college campus navigation system
+- 🤝 Food Waste & Cloth Donation for Orphanage – Donation management system connecting donors, restaurants, and orphanages
+- 🚌 CommuteQR – Smart Bus Routine System – QR-based bus navigation system providing real-time route, stop, timing, and fare information
