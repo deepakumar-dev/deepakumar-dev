@@ -18,7 +18,7 @@ Hi there, I'm Deepa Kumar M! 👋
 
 🛠 Tech Stack
 
-- Programming: Python, C++
+- Programming: Python,Java
 - Frontend: HTML, CSS, JavaScript
 - Backend & Database: MySQL
 - Data & AI: Data Analytics, AI Tools
